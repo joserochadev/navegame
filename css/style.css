@@ -1,0 +1,25 @@
+@font-face{
+    font-family: emulogic;
+    src: url(../fonts/emulogic.ttf);
+
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #292929;
+}
+
+canvas{
+    border: 13px solid gray;
+}
+
+p{
+    font-family: emulogic;
+    font-size: 15pt;
+    color: rgb(214, 214, 214);
+    text-align: center;
+}
